@@ -1,6 +1,6 @@
 {
   "name": "async-to",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "repository": "https://github.com/qinglong-zeng/toJs.git",
@@ -10,7 +10,9 @@
   "author": "kimlon",
   "license": "ISC",
   "dependencies": {
+    "ethers": "^5.7.2"
   },
   "devDependencies": {
+    "zod": "^3.22.4"
   }
 }
